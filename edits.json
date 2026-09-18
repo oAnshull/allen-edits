@@ -1,0 +1,23 @@
+{
+ "name": "Anshul Deep",
+ "overall": {
+  "scored": 152,
+  "total": 180,
+  "rank": 3
+ },
+ "subjects": {
+  "physics": {
+   "scored": 51,
+   "total": 60
+  },
+  "chemistry": {
+   "scored": 56,
+   "total": 60
+  },
+  "maths": {
+   "scored": 51,
+   "total": 60
+  }
+ },
+ "time_taken": "2H 18M"
+}
